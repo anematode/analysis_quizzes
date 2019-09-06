@@ -12,8 +12,8 @@ A description of all the quizzes and tests of the year, along with their filenam
 | Quiz/Test Name | Blank File | Solutions File | Week of | Unit/Topics | Questions | Points | Calculators? |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | AtPS #1 | [**atps1**](https://github.com/anematode/analysis_quizzes/blob/master/blanked_assembled/sem1/atps1.pdf) | [**atps1**](https://github.com/anematode/analysis_quizzes/blob/master/raw_assembled/sem1/atps1.pdf) | 8/20/18 | AtPS | 5 | 30 | No |
-| *We are here* |
 | AtPS #2 | [**atps2**](https://github.com/anematode/analysis_quizzes/blob/master/blanked_assembled/sem1/atps2.pdf) | [**atps2**](https://github.com/anematode/analysis_quizzes/blob/master/raw_assembled/sem1/atps2.pdf) | 9/3/18 | AtPS | 5 | 30 | No |
+| *We are here* |
 | Probability #1 | [**prob1**](https://github.com/anematode/analysis_quizzes/blob/master/blanked_assembled/sem1/prob1.pdf) | [**prob1**](https://github.com/anematode/analysis_quizzes/blob/master/raw_assembled/sem1/prob1.pdf) | 9/10/18 | Probability | 6 | 30 | No |
 | Probability #2 | [**prob2**](https://github.com/anematode/analysis_quizzes/blob/master/blanked_assembled/sem1/prob2.pdf) | [**prob2**](https://github.com/anematode/analysis_quizzes/blob/master/raw_assembled/sem1/prob2.pdf) | 9/17/18 | Probability | 3 | 22 | No |
 | Midterm #1 | [**mid1**](https://github.com/anematode/analysis_quizzes/blob/master/blanked_assembled/sem1/mid1.pdf) | [**mid1**](https://github.com/anematode/analysis_quizzes/blob/master/raw_assembled/sem1/mid1.pdf) | 9/24/18 | (since yr. start) | 19 | 77 | No |
