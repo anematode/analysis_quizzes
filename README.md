@@ -1,11 +1,11 @@
 # analysis_quizzes
-My Analysis H quizzes from the 2018-2019 school year, in PDF format. Quizzes with my pencil answers on them -- basically raw off the scanner -- are found in **raw_assembled**, split into **sem1** and **sem2** (first and second semesters). The blanked quizzes, with the answers manually removed, are found in **blanked_assembled**, again split into the two semesters.
+My Analysis H quizzes from the 2018-2019 school year, in PDF format. Quizzes with my pencil answers on them—basically raw off the scanner—are found in **raw_assembled**, split into **sem1** and **sem2** (first and second semesters). The blanked quizzes, with the answers manually removed, are found in **blanked_assembled**, again split into the two semesters.
 
-Again: answers in **raw_assembled**. Blank quizzes in **blanked_assembled**. You can just click the corresponding links above. Enjoy!
+tl;dr: answers in **raw_assembled**. Blank quizzes in **blanked_assembled**. You can just click the corresponding links in the table below. Enjoy!
 
 ## Key
 
-A description of all the quizzes and tests of the year, along with their file names and various data.
+A description of all the quizzes and tests of the year, along with their filenames and various data.
 
 ### Semester 1 (**sem1**)
 
