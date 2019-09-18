@@ -1,5 +1,5 @@
 # analysis_quizzes
-My Analysis H quizzes from the 2018-2019 school year, in PDF format. Quizzes with my pencil answers on them—basically raw off the scanner—are found in **raw_assembled**, split into **sem1** and **sem2** (first and second semesters). The blanked quizzes, with the answers manually removed, are found in **blanked_assembled**, again split into the two semesters.
+My Analysis H quizzes from the 2018–2019 school year, in PDF format. Quizzes with my pencil answers on them—basically raw off the scanner—are found in **raw_assembled**, split into **sem1** and **sem2** (first and second semesters). The blanked quizzes, with the answers manually removed, are found in **blanked_assembled**, again split into the two semesters.
 
 tl;dr: answers in **raw_assembled**. Blank quizzes in **blanked_assembled**. You can just click the corresponding links in the table below. Enjoy!
 
@@ -13,8 +13,8 @@ A description of all the quizzes and tests of the year, along with their filenam
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | AtPS #1 | [**atps1**](https://github.com/anematode/analysis_quizzes/blob/master/blanked_assembled/sem1/atps1.pdf) | [**atps1**](https://github.com/anematode/analysis_quizzes/blob/master/raw_assembled/sem1/atps1.pdf) | 8/20/18 | AtPS | 5 | 30 | No |
 | AtPS #2 | [**atps2**](https://github.com/anematode/analysis_quizzes/blob/master/blanked_assembled/sem1/atps2.pdf) | [**atps2**](https://github.com/anematode/analysis_quizzes/blob/master/raw_assembled/sem1/atps2.pdf) | 9/3/18 | AtPS | 5 | 30 | No |
-| *We are here* |
 | Probability #1 | [**prob1**](https://github.com/anematode/analysis_quizzes/blob/master/blanked_assembled/sem1/prob1.pdf) | [**prob1**](https://github.com/anematode/analysis_quizzes/blob/master/raw_assembled/sem1/prob1.pdf) | 9/10/18 | Probability | 6 | 30 | No |
+| *We are here* |
 | Probability #2 | [**prob2**](https://github.com/anematode/analysis_quizzes/blob/master/blanked_assembled/sem1/prob2.pdf) | [**prob2**](https://github.com/anematode/analysis_quizzes/blob/master/raw_assembled/sem1/prob2.pdf) | 9/17/18 | Probability | 3 | 22 | No |
 | Midterm #1 | [**mid1**](https://github.com/anematode/analysis_quizzes/blob/master/blanked_assembled/sem1/mid1.pdf) | [**mid1**](https://github.com/anematode/analysis_quizzes/blob/master/raw_assembled/sem1/mid1.pdf) | 9/24/18 | (since yr. start) | 19 | 77 | No |
 | Polar Coord. | [**polar**](https://github.com/anematode/analysis_quizzes/blob/master/blanked_assembled/sem1/polar.pdf) | [**polar**](https://github.com/anematode/analysis_quizzes/blob/master/raw_assembled/sem1/polar.pdf) | 10/8/18 | Polar | 5 | 26 | No |
