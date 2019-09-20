@@ -41,7 +41,7 @@ A description of all the quizzes and tests of the year, along with their filenam
 | Limits #2 | [**limits2**](https://github.com/anematode/analysis_quizzes/blob/master/blanked_assembled/sem2/limits2.pdf) | [**limits2**](https://github.com/anematode/analysis_quizzes/blob/master/raw_assembled/sem2/limits2.pdf) | 4/22/19 | Limits | 6 | 30 | No |
 | Limits #3 | [**limits3**](https://github.com/anematode/analysis_quizzes/blob/master/blanked_assembled/sem2/limits3.pdf) | [**limits3**](https://github.com/anematode/analysis_quizzes/blob/master/raw_assembled/sem2/limits3.pdf) | 4/29/19 | Limits | 2 | 15 | No |
 | Limits #4\*\* | [**limits4**](https://github.com/anematode/analysis_quizzes/blob/master/blanked_assembled/sem2/limits4.pdf) | [**limits4**](https://github.com/anematode/analysis_quizzes/blob/master/raw_assembled/sem2/limits4.pdf) | 4/29/19 | Limits | 8 | 50 | No |
-| (Final Exam) | - | - | 5/27/19 | (after mid. #1) | ? | ? | ? |
+| (Final Exam) | - | - | 5/27/19 | (after mid. #2) | ? | ? | ? |
 
 †Contains a non-calculator section (first four pages) and a calculator section (last two pages). Again, the first section was turned in before the second section was given.
 
