@@ -18,9 +18,9 @@ A description of all the quizzes and tests of the year, along with their filenam
 | Midterm #1 | [**mid1**](https://github.com/anematode/analysis_quizzes/blob/master/blanked_assembled/sem1/mid1.pdf) | [**mid1**](https://github.com/anematode/analysis_quizzes/blob/master/raw_assembled/sem1/mid1.pdf) | 9/24/18 | (since yr. start) | 19 | 77 | No |
 | Polar Coord. | [**polar**](https://github.com/anematode/analysis_quizzes/blob/master/blanked_assembled/sem1/polar.pdf) | [**polar**](https://github.com/anematode/analysis_quizzes/blob/master/raw_assembled/sem1/polar.pdf) | 10/8/18 | Polar | 5 | 26 | No |
 | 3D Graphing | [**3d**](https://github.com/anematode/analysis_quizzes/blob/master/blanked_assembled/sem1/3d.pdf) | [**3d**](https://github.com/anematode/analysis_quizzes/blob/master/raw_assembled/sem1/3d.pdf) | 10/22/18 | 3D | 7 | 31 | No |
-| *We are here* |
 | Vectors #1 | [**vect1**](https://github.com/anematode/analysis_quizzes/blob/master/blanked_assembled/sem1/vect1.pdf) | [**vect1**](https://github.com/anematode/analysis_quizzes/blob/master/raw_assembled/sem1/vect1.pdf) | 10/29/18 | Vectors | 6 | 30 | No |
 | Vectors #2 | [**vect2**](https://github.com/anematode/analysis_quizzes/blob/master/blanked_assembled/sem1/vect2.pdf) | [**vect2**](https://github.com/anematode/analysis_quizzes/blob/master/raw_assembled/sem1/vect2.pdf) | 11/12/18 | Vectors | 5 | 30 | Yes |
+| *We are here* |
 | Midterm #2 | [**mid2**](https://github.com/anematode/analysis_quizzes/blob/master/blanked_assembled/sem1/mid2.pdf) | [**mid2**](https://github.com/anematode/analysis_quizzes/blob/master/raw_assembled/sem1/mid2.pdf) | 11/26/18 | (since mid. #1) | 24 | 101 | No |
 | Growth Quiz | [**growth**](https://github.com/anematode/analysis_quizzes/blob/master/blanked_assembled/sem1/growth.pdf) | [**growth**](https://github.com/anematode/analysis_quizzes/blob/master/raw_assembled/sem1/growth.pdf) | 12/10/18 | Growth | 10 | 50 | Yes* |
 | (Final Exam) | - | - | 12/17/18 | (since yr. start) | 50 | 200 | No |
