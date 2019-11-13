@@ -53,9 +53,6 @@ A description of all the quizzes and tests of the year, along with their filenam
 
 This is tedious. Christine later informed me that usually the quiz taker is not the one who blanks them; this task is undertaken by others. Oops!! In total, six hours of my life were whisked away.
 
-3 hour timelapse of me blanking quizzes: (warning: very loud)
-https://www.youtube.com/watch?v=grGoCdvk6o0
-
 ### Other Info
 
 I'm not 100% sure about the copyright status of these files, but since the teachers seem to endorse scanning in old quizzes, and I don't care, do whatever you want with them. It would be nice of you, though, if you don't claim this is your work; I spent a bit too long on this and kind of regret it now.
