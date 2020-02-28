@@ -33,7 +33,6 @@ A description of all the quizzes and tests of the year, along with their filenam
 | Matrices | [**matrices**](https://github.com/anematode/analysis_quizzes/blob/master/blanked_assembled/sem2/matrices.pdf) | [**matrices**](https://github.com/anematode/analysis_quizzes/blob/master/raw_assembled/sem2/matrices.pdf) | 1/14/19 | Matrix Basics | 3 | 30 | No |
 | Midterm #1 | [**mid1**](https://github.com/anematode/analysis_quizzes/blob/master/blanked_assembled/sem2/mid1.pdf) | [**mid1**](https://github.com/anematode/analysis_quizzes/blob/master/raw_assembled/sem2/mid1.pdf) | 2/4/19 | Matrices | 14 | 88 | Yes† |
 | GAtM #1 | [**gatm1**](https://github.com/anematode/analysis_quizzes/blob/master/blanked_assembled/sem2/gatm1.pdf) | [**gatm1**](https://github.com/anematode/analysis_quizzes/blob/master/raw_assembled/sem2/gatm1.pdf) | 2/11/19 | GAtM | 5 | 33 | No |
-| *We are here* |
 | GAtM #2 | [**gatm2**](https://github.com/anematode/analysis_quizzes/blob/master/blanked_assembled/sem2/gatm2.pdf) | [**gatm2**](https://github.com/anematode/analysis_quizzes/blob/master/raw_assembled/sem2/gatm2.pdf) | 2/25/19 | GAtM | 6 | 32 | No |
 | *We are here* |
 | GAtM #3‡ | [**gatm3**](https://github.com/anematode/analysis_quizzes/blob/master/blanked_assembled/sem2/gatm3.pdf) | [**gatm3**](https://github.com/anematode/analysis_quizzes/blob/master/raw_assembled/sem2/gatm3.pdf) | 3/11/19 | GAtM | 5 | 30 | No |
