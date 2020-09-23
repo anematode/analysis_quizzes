@@ -3,6 +3,15 @@ My Analysis H quizzes from the 2018–2019 school year, in PDF format. Quizzes w
 
 tl;dr: answers in **raw_assembled**. Blank quizzes in **blanked_assembled**. You can just click the corresponding links in the table below. Enjoy!
 
+For more quizzes, see below:
+
+Ryan's:
+https://drive.google.com/drive/folders/1XyIe2Te4eo4czpkOAI1q-HQBydlcwkbw?fbclid=IwAR0Lv1eS90ZgB1gVdtZEKbapk-9w0EH4E-RBPct2ROP26YWtDC6OOeiitIQ
+Hannah's:
+https://drive.google.com/drive/folders/0B3fOWXV9esQqWkVBekRDVDQ3WVU?fbclid=IwAR2rK2CnoOUZz3_DLyuqTBFd0IVbs_BllimkAICWsmi1hHkoJMzVoDP4PA0
+
+Jason's tests seem to be taken down.
+
 ## Key
 
 A description of all the quizzes and tests of the year, along with their filenames and various data.
